@@ -6,7 +6,7 @@ set visualbell      " no beeping!
 set ruler           " show line, col numbers
 set mouse=a         " enable mouse scrolling 
 
-set tw=79           " word wrap?
+set tw=79           " word wrap
 set hlsearch
 
 " configure syntax highlighting
