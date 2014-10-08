@@ -1,8 +1,8 @@
 [user]
-	name = jason137
+    name = jason137
     email = jason.dolatshahi@gmail.com
 [credential]
-	helper = osxkeychain
+    helper = osxkeychain
 [alias]
     ci = commit
     st = status
