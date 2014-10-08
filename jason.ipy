@@ -1,0 +1,8 @@
+print 'import numpy as np'
+import numpy as np
+print 'import pandas as pd'
+import pandas as pd
+pd.set_option('display.width', None)
+
+# print 'from ggplot import *'
+# from ggplot import *
