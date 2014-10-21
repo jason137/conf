@@ -1,7 +1,7 @@
 set number          " show line numbers
 set tabstop=4       " tabstop = 4
 set expandtab       " expand tabs to spaces
-
+set shiftwidth=4    " indent cmd (<<) indents 4 spaces
 set visualbell      " no beeping!
 set ruler           " show line, col numbers
 set mouse=a         " enable mouse scrolling 
