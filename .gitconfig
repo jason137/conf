@@ -1,6 +1,6 @@
 [user]
-    name = jason137
-    email = jason.dolatshahi@gmail.com
+    name = <name>
+    email = <email>
 [credential]
     helper = osxkeychain
 [alias]
